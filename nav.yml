@@ -13,11 +13,11 @@ menu:
   - title: Integral trigonométrica
     topic: int_trigonometry 
 questions:
-- file: question1.md 
+- file: question1/question1.md 
+  title: Questão 1
+  url: question-one
   topic: chain_rule
-- file: question5.md
+- file: question2.md
+  title: Questão 2
+  url: question-two
   topic: trigonometry
-- file: question3.md
-  topic: chain_rule
-- file: question4.md
-  topic: chain_rule
