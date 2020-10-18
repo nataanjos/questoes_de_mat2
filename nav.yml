@@ -13,7 +13,7 @@ menu:
   - title: Integral trigonométrica
     topic: int_trigonometry 
 questions:
-- file: question1.md
+- file: question1.md 
   topic: chain_rule
 - file: question5.md
   topic: trigonometry
