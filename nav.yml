@@ -2,7 +2,7 @@
 menu:
 - title: Derivadas
   topics:
-  - title: Regra da Cadeia
+  - title: Regra da Cadeia 
     topic: chain_rule
   - title: Trigonométrica
     topic: trigonometry
