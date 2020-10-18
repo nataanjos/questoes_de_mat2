@@ -11,7 +11,7 @@ menu:
   - title: Integral por partes
     topic: for_parts
   - title: Integral trigonométrica
-    topic: int_trigonometry
+    topic: int_trigonometry 
 questions:
 - file: question1.md
   topic: chain_rule
