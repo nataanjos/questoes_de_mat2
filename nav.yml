@@ -1,23 +1,17 @@
 ---
 menu:
-- title: Derivadas
+- title: Bom e Ruim
   topics:
-  - title: Regra da Cadeia 
-    topic: chain_rule
-  - title: Trigonométrica
-    topic: trigonometry
-- title: Integral
-  topics:
-  - title: Integral por partes
-    topic: for_parts
-  - title: Integral trigonométrica
-    topic: int_trigonometry 
+  - title: Drogas
+    topic: drougs
+  - title: Frutas
+    topic: fruits
 questions:
-- file: question1/question1.md 
-  title: Questão 1
-  url: question-one
-  topic: chain_rule
-- file: question2.md
-  title: Questão 2
+- file: stone.md 
+  title: Um usuário estava comendo pedra
+  url: usuario-comendo-pedra
+  topic: drougs
+- file: meloon.md
+  title: Uma melancia gostava de se comer
   url: question-two
-  topic: trigonometry
+  topic: fruits
